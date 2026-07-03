@@ -1,6 +1,9 @@
+#include <stdio.h>
 
-main() {
+int main(void) {
 	biggest3();
 	factorial();
 	pallindrom();
+
+	return 0;
 }
